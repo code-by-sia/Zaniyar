@@ -1,2 +1,1 @@
-# Zaniyar
-Note taking app
+## Zaniyar knowledge base
